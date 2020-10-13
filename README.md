@@ -1,4 +1,4 @@
-# open-source-participation-guidelnes
+# Open source participation guidelines
 A community version of Red Hat's Open Source Participation Guidelines
 
 ## How we actively contribute
