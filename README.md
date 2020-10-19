@@ -22,37 +22,38 @@ New open source projects started by Red Hatters vary in scope and commercial and
 
 ### Maintainers
 
-Richard Fontana @richardfontana
-Brian Proffitt @bproffitt
+Richard Fontana @richardfontana  
+Brian Proffitt @bproffitt  
 Ruth Suehle @suehle
 
 ### Core team
 
 This group, with representation from the Red Hat [Open Source Program Office](https://www.redhat.com/en/about/our-community-contributions) and Red Hat Legal, led the guidelines project.
 
-Deb Bryant
-Ruth Suehle
-Richard Fontana
-Jeff Kaufman
-Scott Peterson
-Tim Burke
+Deb Bryant  
+Ruth Suehle  
+Richard Fontana  
+Jeff Kaufman  
+Scott Peterson  
+Tim Burke  
 
 ### Influencer team
 
 This cross-functional team reviewed first drafts of the guidelines and offered ongoing feedback about the results.
 
-Vincent Batts
-Mark McLoughlin
-Paul Morie
-Dan Walsh
-Emmanuel Bernard
-Greg DeKoenigsberg
-Robyn Bergeron
-Diane Muller
-Paul Frields
-Laura Abbot
-Florian Weimer
-Máirín Duffy
-Dave Neary
-Simo Sorce
+Vincent Batts  
+Mark McLoughlin  
+Paul Morie  
+Dan Walsh  
+Emmanuel Bernard  
+Greg DeKoenigsberg  
+Robyn Bergeron  
+Diane Muller  
+Paul Frields  
+Laura Abbot  
+Florian Weimer  
+Máirín Duffy  
+Josh Berkus  
+Dave Neary  
+Simo Sorce  
 Stef Walter
