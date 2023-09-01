@@ -22,6 +22,13 @@ In much of our engagement with open source projects, we aspire to meet the highe
 
 Red Hat associates are free to use open source software regardless of how it is procured, including open source software not developed by Red Hat or its engineers, subject to any applicable guidelines set out by the Red Hat IT and Legal departments.
 
+### 2.1 Product development and open source license compliance
+
+All companies developing software today make substantial use of open source dependencies, and a number of companies base the core of their commercial products on open source project code releases. Red Hat is very different from nearly every other company, however, in that our products themselves are entirely open source in the strictest sense. They are licensed to our customers under open source licenses, which we pass through from upstream to the customer, and we provide customers with the source code.
+
+Red Hat takes open source license compliance very seriously. Both our practice of having completely open source products and our leadership in the open source community magnify our responsibilities around open source license compliance, and the open source community holds us to a higher compliance standard than other companies. For our products, we normally achieve compliance with the requirements of open source licenses by making available the complete corresponding source code to our customers.
+
+
 ## 3. Participating in open source activities 
 
 Red Hat associates are highly encouraged to participate in open source projects, and of course many Red Hat engineers do so as a direct aspect of their jobs. Participation or collaboration takes many forms. It includes not only contribution of code, documentation, design artifacts and other content, but also many other activities, including less tangible forms of community participation such as mentoring new contributors, project coordination, project event planning, and so on.
@@ -127,8 +134,3 @@ The Open Source Program Office’s charter includes assisting engineering and pr
 
 Red Hat-led projects are not required to adopt any particular form of technical governance or decisionmaking process or to use any specific tools or services. However, particular teams may choose to adopt requirements or preferences concerning tools and services.
 
-## 8. Product development and open source license compliance
-
-All companies developing software today make substantial use of open source dependencies, and a number of companies base the core of their commercial products on open source project code releases. Red Hat is very different from nearly every other company, however, in that our products themselves are entirely open source in the strictest sense. They are licensed to our customers under open source licenses, which we pass through from upstream to the customer, and we provide customers with the source code.
-
-Red Hat takes open source license compliance very seriously. Both our practice of having completely open source products and our leadership in the open source community magnify our responsibilities around open source license compliance, and the open source community holds us to a higher compliance standard than other companies. For our products, we normally achieve compliance with the requirements of open source licenses by making available the complete corresponding source code to our customers.
