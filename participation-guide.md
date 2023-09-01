@@ -24,7 +24,7 @@ Red Hat associates are free to use open source software regardless of how it is 
 
 ## 3. Participating in open source activities 
 
-Red Hat associates are highly encouraged to participate in open source projects, and of course many Red Hat assocaites do so as a direct aspect of their jobs. Participation or collaboration takes many forms. It includes not only contribution of code, documentation, design artifacts and other content, but also many other activities, including less tangible forms of community participation such as mentoring new contributors, project coordination, project event planning, and so on.
+Red Hat associates are highly encouraged to participate in open source projects, and of course many Red Hat engineers do so as a direct aspect of their jobs. Participation or collaboration takes many forms. It includes not only contribution of code, documentation, design artifacts and other content, but also many other activities, including less tangible forms of community participation such as mentoring new contributors, project coordination, project event planning, and so on.
 
 We deliberately do not mandate that associates complete any type of education or training as a prerequisite to participating in open source communities. However, we provide resources and assistance for Red Hat associates who are relatively inexperienced in open source but who wish to or need to get involved in community development. These include:
 
